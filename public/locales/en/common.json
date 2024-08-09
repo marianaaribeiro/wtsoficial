@@ -1,0 +1,79 @@
+{
+    "loading": "loading...",
+    "global": {
+        "buttonBack": "Go back to Login",
+        "buttonOk": "Ok",
+        "goPage": "Next",
+        "success": "Information saved successfully",
+        "error": {
+            "item[0].title": "An error occurred",
+            "item[1].title": "Try again later!"
+        }
+    },
+    "errors": {
+        "card[0].error.title": "Sorry, something unexpected happened!",
+        "card[0].error.description": "Please try again later!",
+        "card[1].error.title": "Erro",
+        "card[1].error.description": "Expired token. Please try again."
+    },
+    "login": {
+        "title": "Login",
+        "recover.Password": "Recover Password",
+        "name.system": "Welcome to",
+        "description.system": "With this module you can view and manage your emails by assigning priorities",
+        "form": {
+            "email": "Email Address",
+            "pass": "Password",
+            "button": "Login"
+        },
+        "subTitle": "Digital Campaigns",
+        "validation": {
+            "email": "Must be a valid email",
+            "password": "It is necessary to enter the Password"
+        },
+        "required": "It is necessary to enter the E-Mail address",
+        "error": {
+            "item[0].title": "Email address not found.",
+            "item[1].title": "The Password must contain a minimum of 8 characters",
+            "item[2].title": "It is necessary to enter the E-Mail address",
+            "item[3].title": "Error"
+        },
+        "page": "Login | Digital Campaigns",
+        "button": "Login"
+    },
+    "menu": {
+        "footer.title": "CBH - Digital Campaigns",
+        "item[0].title": "Dashboard",
+        "item[1].title": "View Campaigns"
+    },
+    "dashboard": {
+        "title": "Dashboard | Digital Campaigns"
+    },
+    "viewCampaigns": {
+        "title": "View Campaigns",
+        "cardInfo": {
+            "title": "Gerir Campanhas Digitais - Versão ",
+            "description": "Com este modulo poderá gerir as suas campanhas digitais"
+        }
+    },
+    "creatCampaigns": {
+        "title": "Create Campaigns",
+        "cardInfo": {
+            "title": "Campanhas de {{ typeCampaigns }} Digitais",
+            "description": "Com este modulo poderá {{ typePage }} campanhas de {{ typeCampaigns }} digitais {{ description }}"
+        },
+        "button": "Salvar",
+        "table": {
+            "item[0]": "Campanha",
+            "item[1]": "Canal",
+            "item[2]": "Data de Inicio",
+            "item[3]": "Data de Fim",
+            "item[4]": "Semanas",
+            "item[5]": "Horário de Fim",
+            "item[6]": "Horário de Inicio",
+            "item[7]": "Quantidade",
+            "item[8]": "Estado",
+            "item[9]": "Ações"
+        }
+    }
+}

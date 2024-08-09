@@ -1,0 +1,54 @@
+{
+  "translation": {
+    "loading": "loading...",
+    "global": {
+      "buttonBack": "Go back to Login",
+      "buttonOk": "Ok",
+      "goPage": "Next",
+      "success": "Information saved successfully",
+      "error": {
+        "item[0].title": "An error occurred",
+        "item[1].title": "Try again later!"
+      }
+    },
+    "errors": {
+      "card[0].error.title": "Sorry, something unexpected happened!",
+      "card[0].error.description": "Please try again later!",
+      "card[1].error.title": "Erro",
+      "card[1].error.description": "Expired token. Please try again."
+    },
+    "login": {
+      "title": "Login",
+      "recover.Password": "Recover Password",
+      "name.system": "Title system",
+      "description.system": "Description system",
+      "form": {
+        "email": "Email Address",
+        "pass": "Password",
+        "button": "Login"
+      },
+      "subTitle": "Email Manager",
+      "validation": {
+        "email": "Must be a valid email",
+        "password": "It is necessary to enter the Password"
+      },
+      "required": "It is necessary to enter the E-Mail address",
+      "error": {
+        "item[0].title": "Email address not found.",
+        "item[1].title": "The Password must contain a minimum of 8 characters",
+        "item[2].title": "It is necessary to enter the E-Mail address",
+        "item[3].title": "Error"
+      },
+      "page": "Login | Title system",
+      "button": "Login"
+    },
+    "menu": {
+      "footer.title": "CBH - Title system",
+      "item[0].title": "Dashboard",
+      "item[1].title": "Title system"
+    },
+    "dashboard": {
+      "title": "Dashboard | Dasboard"
+    }
+  }
+}

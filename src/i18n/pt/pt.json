@@ -1,0 +1,249 @@
+{
+  "translation": {
+    "login": {
+      "title": "Entrar",
+      "name.system": "Bem vindo!",
+      "subTitle": "Nós somos a Company WTS",
+      "description.system": "",
+      "page": "Entrar | Company WTS"
+    },
+    "loading": "Carregando...",
+    "global": {
+      "buttonBack": "Voltar ao Login",
+      "buttonOk": "Ok",
+      "buttonCancel": "Cancelar",
+      "goPage": "Próximo",
+      "success": "Informação gravada com sucesso",
+      "error": {
+        "item[0].title": "Ocorreu um erro",
+        "item[1].title": "Por favor tente mais tarde!"
+      },
+      "viewDataMenuSelect": {
+        "5": "Ver 5 registos",
+        "10": "Ver 10 registos",
+        "25": "Ver 25 registos",
+        "50": "Ver 50 registos",
+        "100": "Ver 100 registos"
+      }
+    },
+    "errors": {
+      "card[0].error.title": "Lamentamos, ocorreu um erro inesperado",
+      "card[0].error.description": "Por favor, tente mais tarde!",
+      "card[1].error.title": "Erro",
+      "card[1].error.description": "Token expirado. Por favor, faça novamente a autenticação."
+    },
+    "menu": {
+      "footer.title": "CBH - Campanhas Digitais",
+      "item[0].title": "Painel",
+      "item[1].title": "Visualizar Campanhas",
+      "item[2].title": "Pesquisa Geral",
+      "item[3].title": "Reporting",
+      "item[4].title": "Volumes Enviados",
+      "item[5].title": "Contagens",
+      "item[6].title": "Gestão da Companhia",
+      "item[7].title": "Regras de Envio",
+      "item[8].title": "Listas de Barramento"
+    },
+    "dashboard": {
+      "title": "Painel | Campanhas Digitais",
+      "cardInfo": {
+        "title": "Gerir Campanhas Digitais - Versão {{version}}",
+        "description": "Com este modulo poderá gerir as suas campanhas digitais"
+      }
+    },
+    "viewCampaigns": {
+      "title": "Visualizar Campanhas",
+      "cardInfo": {
+        "title": "Visualizar Campanhas Digitais",
+        "description": "Com este modulo poderá visualizar campanhas digitais"
+      },
+      "button": "Criar Campanha",
+      "table": {
+        "item[0]": "Campanha",
+        "item[1]": "Canal",
+        "item[2]": "Data de Inicio",
+        "item[3]": "Data de Fim",
+        "item[4]": "Semanas",
+        "item[5]": "Horário de Fim",
+        "item[6]": "Horário de Inicio",
+        "item[7]": "Quantidade",
+        "item[8]": "Estado",
+        "item[9]": "Ações"
+      },
+      "buttonCancel": "Cancelar",
+      "buttonSave": "Criar"
+    },
+    "creatCampaigns": {
+      "title": "Criar Campanhas",
+      "cardInfo": {
+        "title": "{{typePageTitle}} Campanhas de {{typeCampaigns}} Digitais",
+        "description": "Com este modulo poderá {{typePage}} campanhas de {{typeCampaigns}} digitais {{description}}"
+      },
+      "button": "Gravar",
+      "buttonCancel": "Cancelar",
+      "buttonDelete": "Apagar"
+    },
+    "viewDistribution": {
+      "title": "Visualizar Lista de Distribuição",
+      "cardInfo": {
+        "title": "Visualizar  lista de distribuição Digitais",
+        "description": "Com este modulo poderá visualizar lista de distribuição digitais"
+      },
+      "button": "Criar Lista de Distribuição",
+      "table": {
+        "item[0]": "Descrição",
+        "item[1]": "Data de Inicio",
+        "item[2]": "Data de Fim",
+        "item[3]": "Semanas",
+        "item[4]": "Quantidade máxima",
+        "item[5]": "Nome do arquivo",
+        "item[6]": "Estado atual",
+        "item[7]": "Prioridade",
+        "item[8]": "Ações"
+      },
+      "buttonCancel": "Cancelar",
+      "buttonSave": "Criar"
+    },
+    "creatDistribution": {
+      "title": "Criar Lista de Distribuição",
+      "cardInfo": {
+        "title": "{{typePageTitle}} Lista de Distribuição de {{typeCampaigns}} Digitais",
+        "description": "Com este modulo poderá {{typePage}} Lista de Distribuição de {{typeCampaigns}} digitais {{description}}"
+      },
+      "button": "Gravar",
+      "buttonCancel": "Cancelar",
+      "buttonDelete": "Apagar"
+    },
+    "viewContact": {
+      "title": "Visualizar Lista de Contato",
+      "cardInfo": {
+        "title": "Visualizar  lista de Contato Digitais",
+        "description": "Com este modulo poderá visualizar lista de Contato digitais"
+      },
+      "button": "Voltar para a lista de distribuição",
+      "table": {
+        "item[0]": "Id",
+        "item[1]": "Descrição",
+        "item[2]": "Data de Inicio",
+        "item[3]": "Data de Fim",
+        "item[4]": "Semanas",
+        "item[5]": "Quantidade máxima",
+        "item[6]": "Nome do arquivo",
+        "item[7]": "Estado atual",
+        "item[8]": "Ações"
+      },
+      "buttonCancel": "Cancelar",
+      "buttonSave": "Criar"
+    },
+    "reporting": {
+      "volumesShipped": {
+        "title": "Volumes Enviados",
+        "cardInfo": {
+          "title": "Volumes Enviados",
+          "description": "Neste módulo consegue ter acesso aos seus volumes enviados"
+        },
+        "toolbar": {
+          "cleanFilter": "Limpar Filtro",
+          "months": {
+            "0": "Seleccionar",
+            "1": "Janeiro",
+            "2": "Fevereiro",
+            "3": "Março",
+            "4": "Abril",
+            "5": "Maio",
+            "6": "Junho",
+            "7": "Julho",
+            "8": "Agosto",
+            "9": "Setembro",
+            "10": "Outubro",
+            "11": "Novembro",
+            "12": "Dezembro"
+          }
+        },
+        "tableHeader": {
+          "Id": "Id",
+          "CompanyId": "CompanyId",
+          "Year": "Ano",
+          "Month": "Mês",
+          "Channel": "Canal",
+          "Count": "Contagens"
+        }
+      }
+    },
+    "uploadFile": {
+      "fileToUpload": "Ficheiro a Importar",
+      "uploadFileButton": "Importar",
+      "placeholder": "Escolher ficheiro"
+    },
+    "companyRules": {
+      "title": "Regras de Envio",
+      "cardInfo": {
+        "title": "Regras de Envio",
+        "description": "Neste módulo consegue ter acesso às suas Regras de Envio"
+      },
+      "table": {
+        "item[0]": "GERAL:",
+        "item[1]": "Volume máximo de Envios por mês",
+        "item[2]": "EMAIL:",
+        "item[3]": "Limite de envios de Email por mês",
+        "item[4]": "Limite de envios de Email por dia",
+        "item[5]": "Envio Aleatório de Emails",
+        "item[6]": "Início de envios de Email",
+        "item[7]": "Fim de envios de Email",
+        "item[8]": "SMS:",
+        "item[9]": "Limite de envios de Sms por mês",
+        "item[10]": "Limite de envios de Sms por dia",
+        "item[11]": "Envio Aleatório de SMS",
+        "item[12]": "Início de envios de SMS",
+        "item[13]": "Fim de envios de SMS",
+        "errorMessage": "Campo Obrigatório"
+      },
+      "buttonSave": "Gravar",
+      "disclaimer": "Os parâmetros de throtling para envio de mensagens podem ser ajustados até ao limite técnico da aplicação, sendo da responsabilidade do cliente o ajuste de parâmetros em ciclo de vida, de forma a garantir que a conta de e-mail ou número de SMS não sejam classificados como spam."
+    },
+    "blacklists": {
+      "cardInfo": {
+        "title": "Barramento das Campanhas de Email/SMS Digitais",
+        "description": "Com este módulo poderá fazer o barramento das campanhas de Email e SMS digitais"
+      },
+      "deleteAlertDialog": {
+        "title": "",
+        "description": "Tem a certeza de que pretende retirar este utilizador da Lista de Barramentos?",
+        "buttonOk": "Sim",
+        "buttonCancel": "Não"
+      },
+      "email": {
+        "title": "Email",
+        "inputTitle": "Email",
+        "inputError": "Email inválido",
+        "buttonInsert": "Inserir",
+        "searchButton": "Pesquisar",
+        "cleanFilter": "Limpar Filtro",
+        "tableHeader": {
+          "Id": "Id",
+          "CompanyId": "CompanyId",
+          "Email": "Email",
+          "CreatedOn": "Criado em",
+          "CreatedBy": "Criado por",
+          "Actions": "Acções"
+        }
+      },
+      "sms": {
+        "title": "SMS",
+        "inputTitle": "Número Móvel",
+        "inputError": "Número Móvel inválido",
+        "buttonInsert": "Inserir",
+        "searchButton": "Pesquisar",
+        "cleanFilter": "Limpar Filtro",
+        "tableHeader": {
+          "Id": "Id",
+          "CompanyId": "CompanyId",
+          "Msisdn": "Número Móvel",
+          "CreatedOn": "Criado em",
+          "CreatedBy": "Criado por",
+          "Actions": "Acções"
+        }
+      }
+    }
+  }
+}

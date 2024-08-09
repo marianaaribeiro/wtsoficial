@@ -1,0 +1,85 @@
+{
+    "loading": "Carregando...",
+    "global": {
+        "buttonBack": "Voltar ao Login",
+        "buttonOk": "Ok",
+        "buttonCancel": "Cancelar",
+        "goPage": "Proximo",
+        "success": "Informação gravada com sucesso",
+        "error": {
+            "item[0].title": "Aconteceu um error",
+            "item[1].title": "Tente novamente mais tarde!"
+        }
+    },
+    "errors": {
+        "card[0].error.title": "Desculpe, ocorreu um erro inesperado",
+        "card[0].error.description": "Por favor, tente novamente mais tarde!",
+        "card[1].error.title": "Erro",
+        "card[1].error.description": "Token expirado. Por favor, tente novamente."
+    },
+    "login": {
+        "title": "Entrar",
+        "recover.Password": "Recuperar a palavra-passe",
+        "name.system": "Bem vindo ao",
+        "description.system": "Com este módulo poderá visualizar e gerir seus e-mails ao atribuir prioridades",
+        "form": {
+            "email": "Endereço de e-mail",
+            "pass": "Senha",
+            "button": "Avançar"
+        },
+        "subTitle": "Campanhas Digitais",
+        "validation": {
+            "email": "Deve ser um e-mail válido",
+            "password": "É necessário inserir a senha"
+        },
+        "required": "É necessário inserir o endereço de e-mail",
+        "error": {
+            "item[0].title": "Endereço de E-mail não encontrado",
+            "item[1].title": "A Palavra-Passe deve conter um mínimo de 8 caracteres",
+            "item[2].title": "É necessário introduzir o endereço de E-Mail",
+            "item[3].title": "Erro"
+        },
+        "page": "Aceder | Campanhas Digitais",
+        "button": "Aceder"
+    },
+    "menu": {
+        "footer.title": "CBH - Campanhas Digitais",
+        "item[0].title": "Painel",
+        "item[1].title": "Visualizar Campanhas"
+    },
+    "dashboard": {
+        "title": "Painel | Campanhas Digitais",
+        "cardInfo": {
+            "title": "Gerir Campanhas Digitais - Versão ",
+            "description": "Com este modulo poderá gerir as suas campanhas digitais"
+        }
+    },
+    "viewCampaigns": {
+        "title": "Visualizar Campanhas",
+        "cardInfo": {
+            "title": "Visualizar Campanhas Digitais",
+            "description": "Com este modulo poderá visualizar campanhas digitais"
+        },
+        "button": "Criar Campanha"
+    },
+    "creatCampaigns": {
+        "title": "Criar Campanhas",
+        "cardInfo": {
+            "title": "Campanhas de {{ typeCampaigns }} Digitais",
+            "description": "Com este modulo poderá {{ typePage }} campanhas de {{ typeCampaigns }} digitais {{ description }}"
+        },
+        "button": "Salvar",
+        "table": {
+            "item[0]": "Campanha",
+            "item[1]": "Canal",
+            "item[2]": "Data de Inicio",
+            "item[3]": "Data de Fim",
+            "item[4]": "Semanas",
+            "item[5]": "Horário de Fim",
+            "item[6]": "Horário de Inicio",
+            "item[7]": "Quantidade",
+            "item[8]": "Estado",
+            "item[9]": "Ações"
+        }
+    }
+}

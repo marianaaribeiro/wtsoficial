@@ -1,0 +1,16 @@
+{
+    "HOST": {
+        "API_DIGITAL_URL": "https://localhost:7244/",
+        "API_URL_CBH": "https://localhost:7215/",
+        "WEB_URL_CBH": "http://localhost:3000/",
+        "TEST_URL": "https://localhost:7134/"
+    },
+    "VERSION": "1.1.14",
+    "LIST_BACKGOURD_IMG_PAGE": [
+        {
+            "IMG": "/wts.png",
+            "TYPE_LAYOUT": 1,
+            "HEIGHT": "2400vh"
+        }
+    ]
+}
